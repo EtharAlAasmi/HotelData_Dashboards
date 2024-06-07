@@ -7,6 +7,8 @@ This Power BI project focuses on analyzing hotel booking data to provide compreh
 ### Objectives
 
 #### Hotel Analysis Dashboard
+![image](https://github.com/EtharAlAasmi/HotelData_Dashboards/assets/172024720/ee4aa722-525e-4aba-bcbf-82308a131182)
+
 - **Daily Booking Dynamics:** Explore daily booking trends, distinguishing between weekdays and providing insights into the total number of non-canceled and canceled bookings.
 - **Monthly Guest Insights:** Illustrate the monthly guest count for both hotels, offering a comprehensive overview of visitor patterns.
 - **Special Requests Over Time:** Examine the monthly variations in special requests for both hotels, shedding light on guest preferences and needs.
@@ -14,12 +16,16 @@ This Power BI project focuses on analyzing hotel booking data to provide compreh
 - **Repeated Guest Analysis:** Delve into the distribution channels associated with repeated guests, providing valuable insights into customer loyalty and acquisition channels.
 
 #### Reservations Analysis Dashboard
+![image](https://github.com/EtharAlAasmi/HotelData_Dashboards/assets/172024720/31af93e6-f64f-403c-9f7e-5e7254eeb2a6)
+
 - **Room and Meal Preference Overview:** Uncover the top 3 room types and meal preferences.
 - **Average Stay Duration per Room Type:** Understand guest behavior trends, identifying longer stays for specific room types.
 - **Yearly/Monthly Stay Duration & Meal Count Dynamics:** Examine meal count analysis alongside stay duration trends. Identify any correlation between the count of meals served and the duration of stay.
 - **Stay Duration Distribution:** Illustrate the distribution of stay duration between weeknights and weekend nights.
 
 #### Cancellations Analysis Dashboard
+![image](https://github.com/EtharAlAasmi/HotelData_Dashboards/assets/172024720/5b59fa1e-91a0-4191-8eb9-754116d3f4d7)
+
 - **Cancellation Rate Trends by Month:** Monitor and analyze the cancellation rates on a monthly basis to identify trends and potential influencing factors.
 - **Booking Status by Distribution Channel:** Explore the distribution of bookings, differentiating between non-canceled and canceled, across various channels to understand the impact of each channel on cancellations.
 - **Average Daily Rate and Monthly Cancellation Percentage:** Examine the relationship between the average daily rate and the percentage of cancellations each month, providing insights into pricing dynamics and their effect on cancellations.
@@ -77,7 +83,7 @@ This Power BI project focuses on analyzing hotel booking data to provide compreh
 - **Calendar Table Creation:** Used a DAX formula to create the Calendar table in Power BI.
 
 ### Additional Notes
-- File used in Power BI Desktop has been shared via email.
+- All files related to project can be found above
 - Measures are organized in a dedicated table for clarity.
 
 For further inquiries, comments, or concerns, please do not hesitate to get in touch.
